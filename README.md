@@ -12,3 +12,7 @@ Email: gpavlech@bsu.edu
   Vanessa Covarrubias, 
   Ben Lawson, 
   Cody Tebbe
+
+
+Group Meeting #1:
+[Group Meeting #1](https://docs.google.com/document/d/19V_oVq57zbx2RUjroK89Ok1RTQhPDSYNuMSrUVdH1W0/edit#heading=h.ory6vdsvg2ng)
