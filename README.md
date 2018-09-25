@@ -15,4 +15,6 @@ Email: gpavlech@bsu.edu
 
 [Group Meeting #1](https://docs.google.com/document/d/19V_oVq57zbx2RUjroK89Ok1RTQhPDSYNuMSrUVdH1W0/edit#heading=h.ory6vdsvg2ng)
 
+[Client Meeting #1 minutes](https://docs.google.com/document/d/19V_oVq57zbx2RUjroK89Ok1RTQhPDSYNuMSrUVdH1W0/edit#heading=h.6wnytnlzzfoq)
+
 [Client Meeting #1 Presentation](https://docs.google.com/presentation/d/1B2FqyzIYeqdcNNwkaQkZFT_6lknN2ua5CaFp0wX5N0A/edit#slide=id.p)
