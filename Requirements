@@ -13,21 +13,66 @@ Email: gpavlech@bsu.edu
 
 
 User classes and characteristics:
-Technical constraints:
-Use cases:
-In diagrams and specification:
-Fully specified and have identifiers:
-Functional requirements:
-Grouped w.r.t. features:
-Have identifiers:
-Non-functional requirements:
-Grouped w.r.t. features:
-Have identifiers:
-Assumptions:
+- Students in classroom 418 in TC shall use this application. The students are not required to have any technical background since the system will be straightforward and easy to use.
+- Teachers in classroom 418 in TC shall use this application. The teachers are not required to have any technical background since the system will be straightforward and easy to use.
+- Administrator will be the primary maintainer of the application. They will have to have a technical background.
 
-Each use case should be a valid use case.
-Each requirement should have "good requirement characteristics"
-Each requirement should be prioritized
-High, Medium, Low
-Collection of requirements should have "good requirement collection characteristics"
-Each assumption should have a client-confirmed decision
+Technical constraints:
+- MySQL database
+- Operable on Linux Server
+- Supports IOS and Android in one codebase
+- Prefer python for server-side code
+- Web interface based backed-end
+
+Use cases:
+- Use case name: Take survey
+  Actor(s): Students
+  Summary Description: Allows students to explain their movement throughout class
+  Priority: High
+  Pre-Condition: The students have to attend class to take survey
+  Post-Condition: The system records the students’ data from the survey
+- Use case name: Reconfigured survey questions
+  Actor(s): Teachers
+  Summary Description: Allows teachers to reconfigure survey questions
+  Priority: Medium
+  Pre-Condition: Class must be in session
+  Post-Condition: The system records details of the changes made by the teacher
+- Use case name: Reconfigured classroom setting
+  Actor(s): Teachers
+  Summary Description: Allows teachers to reconfigure the classroom's furniture
+  Priority: High
+  Pre-Condition: Class must be in session
+  Post-Condition: The system records details of the changes made by the teacher
+- Use case name: Search, delete, and add students to database 
+  Actor(s): Administrator
+  Summary Description: Allows administrator to search, delete, and add students to database 
+  Priority: Medium
+  Pre-Condition: There must be students to populate the database
+  Post-Condition: The system records details of the changes made by the administrator
+- Use case name: Review room layout history 
+  Actor(s): Administrator
+  Summary Description: Allows administrator to be able to see the room layouts saved by the teachers 
+  Priority: Medium
+  Pre-Condition: The teachers must save the room layout
+  Post-Condition: The system records details of new data to alert administrator of changes
+
+Functional requirements:
+- Reconfigure classroom layout
+  Priority: High
+- Store and update data
+  Priority: High
+
+Non-functional requirements:
+- Request student login
+  Priority: Medium
+- Must be accessible in IOS and Android devices
+  Priority: Medium
+
+Assumptions:
+- Mobile app so needs to be compatible with IOS and Android
+  Confirmed by client
+- Database to retain Students logins and demographic information
+  Confirmed by client
+  Prefer we use Ball State students’ login
+- Admin account to search, delete, and possibly add students to/from database
+  Confirmed by client 
