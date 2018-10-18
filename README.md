@@ -21,5 +21,4 @@ Email: gpavlech@bsu.edu
 
 [Group Meeting #3](https://docs.google.com/document/d/19V_oVq57zbx2RUjroK89Ok1RTQhPDSYNuMSrUVdH1W0/edit#heading=h.rnl0drsi560x)
 
-[Group Meeting #4]
-(https://docs.google.com/document/d/19V_oVq57zbx2RUjroK89Ok1RTQhPDSYNuMSrUVdH1W0/edit#heading=h.hwabsknukqyp)
+[Group Meeting #4](https://docs.google.com/document/d/19V_oVq57zbx2RUjroK89Ok1RTQhPDSYNuMSrUVdH1W0/edit#heading=h.hwabsknukqyp)
