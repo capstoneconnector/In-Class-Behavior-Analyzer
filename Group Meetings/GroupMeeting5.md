@@ -1,10 +1,10 @@
 # Group Meeting 5
 
-Date: 10/19/2018
-Where: Library
-Who: Ben, Cody, and Vanessa
-Duration: 1 hour
-Why: Weekly Meeting
+Date: 10/19/2018  
+Where: Library  
+Who: Ben, Cody, and Vanessa  
+Duration: 1 hour  
+Why: Weekly Meeting  
 
 ## What was discussed?
 1. Talked about and began work on UML diagram
