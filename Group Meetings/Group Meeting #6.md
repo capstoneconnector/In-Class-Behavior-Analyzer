@@ -1,8 +1,12 @@
 # Group Meeting 5
 Date: 10/27/2018
+
 Where: Library
+
 Who: Ben, Cody, and Vanessa
+
 Duration: 20 min
+
 Why: Weekly Meeting
 
 ## What was discussed?
