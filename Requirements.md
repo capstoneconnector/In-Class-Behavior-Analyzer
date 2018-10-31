@@ -236,10 +236,10 @@ Assumption: Class is assumed to be in session
 
 # Assumptions:
 * Mobile app so needs to be compatible with IOS and Android
-        	** Confirmed by client
+** Confirmed by client
 * Database to retain Students logins and demographic information
-        	** Confirmed by client
-        	** Prefer we use Ball State students’ login
+** Confirmed by client
+** Prefer we use Ball State students’ login
 * Admin account to search, delete, and possibly add students to/from database
         	** Confirmed by client
         	
