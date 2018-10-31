@@ -28,28 +28,28 @@ Email: gpavlech@bsu.edu
 
 ## Use cases:
 ### Use case name: Take survey
-o   Primary Actor: Students
-o   Summary Description: Students specify the desire to explain their movement throughout class in the survey by pressing a button. The system either allows the student to take the survey or informs the student that the survey is not available.
-o   Trigger: Requester indicates they want to take survey
-o   Pre-Condition: The students have to attend class to take survey
-o   Post-Condition: The system records the students’ data from the survey
-o   Normal flow: Request to take survey
-o   Exception: Survey is not available
-o   Priority: High
-o   Frequency of use: Anytime class is in session which is about 2-3 times a week
-o   Assumption: Class is assumed to be in session
-Use case name: Reconfigured survey questions
-o   Primary Actor: Instructor
-o   Summary Description: Instructor specifies the desire to reconfigure survey questions by pressing a button. The system allows the instructor to reconfigure survey questions.
-o   Trigger: Requester indicates they want to reconfigured survey questions
-o   Pre-Condition: Class must be in session
-o   Post-Condition: The system records details of the changes made by the Instructor
-o   Normal flow: Reconfigured survey questions
-o   Exception: Classroom in not in session therefore no need for a survey
-o   Priority: High
-o   Frequency of use: Anytime class is in session which is about 2-3 times a week per class
+* Primary Actor: Students
+* Summary Description: Students specify the desire to explain their movement throughout class in the survey by pressing a button. The system either allows the student to take the survey or informs the student that the survey is not available.
+* Trigger: Requester indicates they want to take survey
+* Pre-Condition: The students have to attend class to take survey
+* Post-Condition: The system records the students’ data from the survey
+* Normal flow: Request to take survey
+* Exception: Survey is not available
+* Priority: High
+* Frequency of use: Anytime class is in session which is about 2-3 times a week
+* Assumption: Class is assumed to be in session
+### Use case name: Reconfigured survey questions
+* Primary Actor: Instructor
+* Summary Description: Instructor specifies the desire to reconfigure survey questions by pressing a button. The system allows the instructor to reconfigure survey questions.
+* Trigger: Requester indicates they want to reconfigured survey questions
+* Pre-Condition: Class must be in session
+* Post-Condition: The system records details of the changes made by the Instructor
+* Normal flow: Reconfigured survey questions
+* Exception: Classroom in not in session therefore no need for a survey
+* Priority: High
+* Frequency of use: Anytime class is in session which is about 2-3 times a week per class
 Assumption: Class is assumed to be in session
-Use case name: Reconfigured classroom setting
+### Use case name: Reconfigured classroom setting
 o   Primary Actor: Instructor -> Administrator
 o   Summary Description: Instructor specifies the desire to reconfigure the classroom. setting. The system allows the instructor to reconfigure the classroom setting.
 o   Trigger: Requester indicates they want to reconfigured classroom setting
