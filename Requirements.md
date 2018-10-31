@@ -241,7 +241,7 @@ Assumption: Class is assumed to be in session
   * Confirmed by client
   * Prefer we use Ball State students’ login
 * Admin account to search, delete, and possibly add students to/from database
-        	** Confirmed by client
+  * Confirmed by client
         	
  
 
