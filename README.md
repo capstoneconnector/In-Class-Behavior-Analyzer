@@ -15,11 +15,7 @@ Email: gpavlech@bsu.edu
 
 ### Group Meetings 
 
-[Group Meeting #1](https://docs.google.com/document/d/19V_oVq57zbx2RUjroK89Ok1RTQhPDSYNuMSrUVdH1W0/edit#heading=h.ory6vdsvg2ng)
-
-[Group Meeting #3](https://docs.google.com/document/d/19V_oVq57zbx2RUjroK89Ok1RTQhPDSYNuMSrUVdH1W0/edit#heading=h.rnl0drsi560x)
-
-[Group Meeting #4](https://docs.google.com/document/d/19V_oVq57zbx2RUjroK89Ok1RTQhPDSYNuMSrUVdH1W0/edit#heading=h.hwabsknukqyp)
+[Group Meetings](https://github.com/Tebbee/In-Class-Behavior-Analyzer/tree/master/Group%20Meetings)
 
 ### Client Meeting Minutes
 
