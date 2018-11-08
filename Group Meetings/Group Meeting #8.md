@@ -4,7 +4,9 @@
 ##### Who was present?
 * Ben, Vanessa, and Cody
 ##### When?
-* Nov 8th, 2018 @ 1:15PM 
+* Nov 8th, 2018 @ 1:15PM (15 min)
+##### Why?
+* Weekly team meeting and future planning
 
 ## What was discussed
 * Discussed required technology to build our required product
