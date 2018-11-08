@@ -5,5 +5,7 @@
   * Should run on a linux machine
 
 ### Frontend
-* Flutter - Build the iOS and Android app  
 * HTML & CSS - Build the administrative webapp
+
+### Mobile App
+* Flutter - Build the mobile application
