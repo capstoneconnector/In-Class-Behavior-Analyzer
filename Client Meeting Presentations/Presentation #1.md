@@ -10,14 +10,14 @@
 from this table to that chair etc. Most of the things should be customizable in this system, like chairs, tables, survey questions.
 
 * Set requirements:
-  ** MySQL database
-  ** Operatable on Linux Server
-  ** Support iOS and Android in one codebase
-  ** Prefer python for server-side code
-  ** Web interface based backed-end
-  ** "Logging in" with student ID #s
-  ** Interchangable survey questions
+  * MySQL database
+  * Operatable on Linux Server
+  * Support iOS and Android in one codebase
+  * Prefer python for server-side code
+  * Web interface based backed-end
+  * "Logging in" with student ID #s
+  * Interchangable survey questions
 
 * Client Desires:
- ** Automatic tracking
- ** Python, PHP, Node JS
+  * Automatic tracking
+  * Python, PHP, Node JS
