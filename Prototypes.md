@@ -1,7 +1,8 @@
 # Prototype Generalization:
-  * Interface should be incredibly basic for Instructor and Student use
-  * Only absolute required components made available for Instuctor and Student
-  * 
+  * Interface should be incredibly basic for Instructor and Student use. *Incredibly linear with simple navigation*
+  * Only absolute required components made available for Instuctor and Student.
+  * Web based interface for Administrator with full access to database and App setup.
+  * Application setup created using Flutter to create compatibility for both Android and IOS.
   
   
 ## 1st drawing (base design approved by client) 
