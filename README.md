@@ -27,4 +27,6 @@ Email: gpavlech@bsu.edu
 
 [Client Meeting #2 Presentation](https://docs.google.com/presentation/d/1ySJR-sufJykYTEWSxnJgGJIL1me7MkNcIP5u_dDwWFM/edit#slide=id.p)
 
+### Code Locations 
+[Mobile Application](https://github.com/Tebbee/In-Class-Behavior-Analyzer-MobileApp/blob/master/README.md)
 
