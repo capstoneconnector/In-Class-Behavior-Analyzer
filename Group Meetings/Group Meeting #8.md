@@ -13,8 +13,10 @@
 
 ## What we need to do
 [X] Begin building a usable product for the next client meeting
+
 [X] Keep thinking about solutions for upcoming problems
 
 ## What our future plans are
 [] Plan next weekly meeting and work on application together 
+
 [] Plan client meeting
