@@ -5,4 +5,4 @@
   
   
 ## 1st drawing (base design approved by client) 
-(Base display concept) [https://docs.google.com/document/d/1qCa8BPOygo0utrGqQkJL5hrpbJBC9LLGmCz9eJTqZX8/edit]
+[Base display concept] (https://docs.google.com/document/d/1qCa8BPOygo0utrGqQkJL5hrpbJBC9LLGmCz9eJTqZX8/edit)
