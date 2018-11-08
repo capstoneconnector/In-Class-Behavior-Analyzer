@@ -6,3 +6,4 @@ Python Server - Handle and route requests to the database
 
 ### Frontend
 Flutter - Build the iOS and Android app
+HTML & CSS - Build the administrative webapp
