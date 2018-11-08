@@ -1,9 +1,9 @@
 # Group Meeting #8
-#### Where?
+##### Where?
 * In class
-#### Who was present?
+##### Who was present?
 * Ben, Vanessa, and Cody
-#### When?
+##### When?
 * Nov 8th, 2018 @ 1:15PM 
 
 ## What was discussed
@@ -12,9 +12,9 @@
 * Plans to begin working on the mobile app using Flutter
 
 ## What we need to do
-* Begin building a usable product for the next client meeting
-* Keep thinking about solutions for upcoming problems
+[X] Begin building a usable product for the next client meeting
+[X] Keep thinking about solutions for upcoming problems
 
 ## What our future plans are
-* Plan next weekly meeting and work on application together 
-* Plan client meeting
+[] Plan next weekly meeting and work on application together 
+[] Plan client meeting
