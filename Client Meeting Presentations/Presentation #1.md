@@ -19,5 +19,5 @@ from this table to that chair etc. Most of the things should be customizable in 
   ** Interchangable survey questions
 
 * Client Desires:
-  ** Automatic tracking
-  ** Python, PHP, Node JS
+ ** Automatic tracking
+ ** Python, PHP, Node JS
