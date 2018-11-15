@@ -1,5 +1,5 @@
 # Tech Stack
-### Backend(https://github.com/KarlMarx4701/In-Class-Behavior-Analyzer-Backend/blob/master/README.md)
+### [Backend](https://github.com/KarlMarx4701/In-Class-Behavior-Analyzer-Backend/blob/master/README.md)
 * MySQL Database - Store the data necessary for the application  
 * Python Server - Handle and route requests to the database  
   * Should run on a linux machine
