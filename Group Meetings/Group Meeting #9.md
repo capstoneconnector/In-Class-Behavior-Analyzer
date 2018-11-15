@@ -9,7 +9,8 @@
 * Weekly team meeting and future planning
 
 ## What was discussed
-* The pogress in our front-end, back-end, and mobile app repositories.
+* The progress in our front-end, back-end, and mobile app repositories.
+* Sent email regarding meeting with the client.
 
 ## What we need to do
 [X] Work on creating a prototype of our app to show in our next client meeting.
