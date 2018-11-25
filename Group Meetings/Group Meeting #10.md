@@ -16,8 +16,8 @@
 [X] Continue working on creating a prototype of our app to show in our next client meeting.
 
 ## What our future plans are
-[] Plan next weekly meeting 
+[ ] Plan next weekly meeting 
 
-[] Work on application together 
+[ ] Work on application together 
 
-[] Plan client meeting
+[ ] Plan client meeting
