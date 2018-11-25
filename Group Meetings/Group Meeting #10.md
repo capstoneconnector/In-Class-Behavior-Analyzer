@@ -17,5 +17,7 @@
 
 ## What our future plans are
 [] Plan next weekly meeting 
+
 [] Work on application together 
+
 [] Plan client meeting
