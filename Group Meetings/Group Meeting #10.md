@@ -1,6 +1,6 @@
 # Group Meeting #10
 ##### Where?
-* In Braken
+* Online via google hangouts
 ##### Who was present?
 * Ben, Vanessa, and Cody
 ##### When?
