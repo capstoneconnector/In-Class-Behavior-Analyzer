@@ -9,6 +9,7 @@
 
 ### [Mobile App](https://github.com/Tebbee/In-Class-Behavior-Analyzer-MobileApp/blob/master/README.md)  
 * Flutter - Build the mobile application
+* MacOS download of Flutter was used via [Flutter Website](https://flutter.io/docs/get-started/install/macos)
    * Coding interfaces include:
      * Android Studio for base platform connected to flutter to utilize .dart code
      * Android Emulator to test Android side of application
