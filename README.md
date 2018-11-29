@@ -30,9 +30,14 @@ Email: gpavlech@bsu.edu
 [Client Meeting #3 Presentation](https://docs.google.com/presentation/d/1rIsRn-H6A9RQw8NmzCvvg0ZnwityRGLxEiWmOQsPgkI/edit?usp=sharing)
 
 ### Code Locations 
+
 [Mobile Application](https://github.com/Tebbee/In-Class-Behavior-Analyzer-MobileApp/blob/master/README.md)  
 
 [Back-end](https://github.com/KarlMarx4701/In-Class-Behavior-Analyzer-Backend/blob/master/README.md)
 
 [Front-End](https://github.com/Tebbee/In-Class-Behavior-Analyzer-FrontEnd)
+
+### Planning Next Semester Presentation
+
+[Next Semester Presentation](https://docs.google.com/presentation/d/1MXF9iinWuRLQGhOiD3WNVIuwvzepxcHod7gq49SM5xc/edit?usp=sharing)
 
