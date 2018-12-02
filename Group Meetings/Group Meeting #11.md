@@ -1,6 +1,6 @@
-# Group Meeting #10
+# Group Meeting #11
 ##### Where?
-* Through Google Docs
+* Robert Bell Building
 ##### Who was present?
 * Ben, Vanessa, and Cody
 ##### When?
