@@ -15,9 +15,12 @@
 
 ## What we need to do
 [X] Work on front-end, back-end, and mobile app
+
 [X] Work on presentation for next class
 
 ## What our future plans are
 [] Plan next weekly meeting 
+
 [] Plan next semester 
+
 [] Plan meeting with other group next week
