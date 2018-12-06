@@ -11,6 +11,8 @@
 
 ## What was discussed
 * Next semester Presentation 
+* Colloquium - Planroom Project (details found on Google Docs)
+[Colloquium details](https://docs.google.com/document/d/19V_oVq57zbx2RUjroK89Ok1RTQhPDSYNuMSrUVdH1W0/edit#heading=h.sxfl87rk9qvb)
 
 ## What we need to do
 [X] Work on front-end, back-end, and mobile app
