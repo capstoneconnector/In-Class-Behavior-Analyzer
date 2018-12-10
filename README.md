@@ -31,7 +31,7 @@ Email: gpavlech@bsu.edu
 
 ### Code Locations 
 
-[Mobile Application](https://github.com/Tebbee/In-Class-Behavior-Analyzer-MobileApp/blob/master/README.md)  
+[Mobile Application](https://github.com/Tebbee/In-Class-Behavior-Analyzer-MobileApp)  
 
 [Back-end](https://github.com/KarlMarx4701/In-Class-Behavior-Analyzer-Backend/blob/master/README.md)
 
