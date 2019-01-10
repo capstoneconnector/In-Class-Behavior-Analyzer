@@ -10,12 +10,22 @@
 * Weekly team meeting and new semester planning
 
 ## What was discussed
-* Semester planning  
+* Plans for the upcoming semesters first release (primarily the login factor)
 
-## What we need to do
-[X] Work on front-end, back-end, and mobile app
-[X] Work on planning the new semester
+* What each person will work on throughout the semester and directions they can head into
 
-## What our future plans are
-[] Plan next weekly meeting 
-[] Plan semester 
+
+## What was accomplished?
+[X] Split the jobs up proportionally within the group while allowing room for assistance from other members   
+
+[X] Planned out how the upcoming login issue with the application will be dealt with.  
+
+
+
+## What needs accomplished?
+[ ] Connecting the app the the back-end to promote a login database that contains users emails to allow access to the application   
+
+[ ]  Being able to insert emails into the email database and only being able to access them through an administrative account   
+[ ] Connect with the other team to plan on how the mapping will be enacted
+
+[ ] Continue looking ahead in the semester
