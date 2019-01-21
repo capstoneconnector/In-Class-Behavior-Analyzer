@@ -1,12 +1,12 @@
-Group Meeting #14
-Where?
+# Group Meeting #14
+##### Where?
 RB450
-Who was present?
+##### Who was present?
 Ben, Vanessa, and Cody
-When?
+##### When?
 January 18th, 2019 @ 10:30 AM
 During class time
-Why?
+##### Why?
 Weekly team meeting and client preparation
 
 ## What was discussed
