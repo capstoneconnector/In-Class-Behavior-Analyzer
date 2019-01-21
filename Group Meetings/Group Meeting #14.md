@@ -16,6 +16,7 @@ Plan for meeting up and finishing the connectivity issue for bluetooth settings.
 
 ## What was accomplished?
 [X] Finished planning what is still required by client meeting.
+
 [X] Planned out how the upcoming login issue with the application will be dealt with.
 
 ## What needs accomplished for client meeting Tuesday?
