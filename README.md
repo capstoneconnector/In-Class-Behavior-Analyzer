@@ -47,4 +47,4 @@ Email: gpavlech@bsu.edu
 
 ### Second Iteration
 
-[February Client Presentation]
+[February Client Presentation](https://docs.google.com/presentation/d/1HsVIKrBMmOTV1xVMt9znGjy2JsDZo25-gR43ie4SRyg/edit#slide=id.p)
