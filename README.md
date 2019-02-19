@@ -43,8 +43,8 @@ Email: gpavlech@bsu.edu
 
 ### First Iteration
 
-[January Client Presentation](https://docs.google.com/presentation/d/1UKQNd43psxDmdAuzqE5WOSjcbQvt2jY238m-0k36XcU/edit?ts=5c472ca8#slide=id.p)
+[Client Presentation - January](https://docs.google.com/presentation/d/1UKQNd43psxDmdAuzqE5WOSjcbQvt2jY238m-0k36XcU/edit?ts=5c472ca8#slide=id.p)
 
 ### Second Iteration
 
-[February Client Presentation](https://docs.google.com/presentation/d/1HsVIKrBMmOTV1xVMt9znGjy2JsDZo25-gR43ie4SRyg/edit#slide=id.p)
+[Client Presentation - February](https://docs.google.com/presentation/d/1HsVIKrBMmOTV1xVMt9znGjy2JsDZo25-gR43ie4SRyg/edit#slide=id.p)
