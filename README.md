@@ -41,3 +41,10 @@ Email: gpavlech@bsu.edu
 
 [Next Semester Presentation](https://docs.google.com/presentation/d/1MXF9iinWuRLQGhOiD3WNVIuwvzepxcHod7gq49SM5xc/edit?usp=sharing)
 
+### First Iteration
+
+[January Client Presentation](https://docs.google.com/presentation/d/1UKQNd43psxDmdAuzqE5WOSjcbQvt2jY238m-0k36XcU/edit?ts=5c472ca8#slide=id.p)
+
+### Second Iteration
+
+[February Client Presentation]
