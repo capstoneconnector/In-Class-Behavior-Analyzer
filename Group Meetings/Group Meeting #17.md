@@ -13,10 +13,10 @@ February 24th, 2019 @ 9:00 AM
 Weekly team meeting and presentation preparation
 
 ## What was discussed
-[X] Presentation material 
+Presentation material 
 
 ## What was accomplished?
-[X] Fixing some loose ends
+Fixing some loose ends
 
 ## What needs accomplished?
-[X] Making sure presentation is ready before Tuesday
+Making sure presentation is ready before Tuesday
