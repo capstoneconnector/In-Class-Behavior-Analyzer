@@ -10,13 +10,13 @@ Ben, Vanessa, and Cody
 February 24th, 2019 @ 9:00 AM
 
 ##### Why?
-[] Weekly team meeting and presentation preparation
+Weekly team meeting and presentation preparation
 
 ## What was discussed
-[] Presentation material 
+[X] Presentation material 
 
 ## What was accomplished?
-[] Fixing some loose ends
+[X] Fixing some loose ends
 
 ## What needs accomplished?
-[] Making sure presentation is ready before Tuesday
+[X] Making sure presentation is ready before Tuesday
