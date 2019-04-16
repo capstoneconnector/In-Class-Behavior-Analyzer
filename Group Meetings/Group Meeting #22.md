@@ -1,22 +1,22 @@
 Group Meeting #22
-Where?
+##### Where?
 Braken
 
-# Who was present?
+##### Who was present?
 Ben, Vanessa, and Cody
 
-# When?
+##### When?
 April 12, 2019 @ 5:30 PM
 
-# Why?
+## Why?
 Weekly team meeting to discuss what needs done in order to present on the coming Tues.
 
-# What was discussed
+## What was discussed
 What we need to do to finish the project
 How the student symposium went
 
-# What was accomplished?
+## What was accomplished?
 Got together what we need to accomplish yet.
 
-# What needs accomplished?
+## What needs accomplished?
 Finish the mobile app and the web Instructor page
