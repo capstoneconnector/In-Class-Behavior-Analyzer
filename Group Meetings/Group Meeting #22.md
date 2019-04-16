@@ -22,5 +22,5 @@ Wrote about the Symposium
 ## What needs accomplished?
 Finish the mobile app and the web Instructor page
 
+[Symposium Details](https://github.com/Tebbee/In-Class-Behavior-Analyzer/blob/master/Group%20Meetings/Symposium.md)
 
-https://github.com/Tebbee/In-Class-Behavior-Analyzer/blob/master/Group%20Meetings/Symposium.md
