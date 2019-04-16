@@ -17,6 +17,10 @@ How the student symposium went
 
 ## What was accomplished?
 Got together what we need to accomplish yet.
+Wrote about the Symposium
 
 ## What needs accomplished?
 Finish the mobile app and the web Instructor page
+
+
+https://github.com/Tebbee/In-Class-Behavior-Analyzer/blob/master/Group%20Meetings/Symposium.md
