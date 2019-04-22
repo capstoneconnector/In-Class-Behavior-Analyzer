@@ -51,3 +51,6 @@ Email: gpavlech@bsu.edu
 
 ### Third Iteration
 [Client Presentation - March](https://docs.google.com/presentation/d/16lnKzHn0RWR1Vjcc_cqbjpVW3d41rfSRfxORurNbI9M/edit?ts=5c9a3a24#slide=id.g54a13989f4_0_42)
+
+### Reuirements Clarification 
+[Requirement Match Document](https://github.com/Tebbee/In-Class-Behavior-Analyzer/blob/master/Requirement_match_document.md)
