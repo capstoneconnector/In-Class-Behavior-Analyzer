@@ -1,6 +1,6 @@
 # Requirement Match Document
 
-Project Requirements (First Semester) | Requirements Available 
+### Project Requirements (First Semester) | ### Requirements Available 
 ------------ | -------------
 Mobile app | The mobile application is available
 Mobile app so needs to be compatible with IOS and Android | iOS app could not be added to the app store. App is compatible with Android
