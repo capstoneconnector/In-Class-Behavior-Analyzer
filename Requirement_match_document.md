@@ -1,5 +1,7 @@
 # Requirement Match Document
 
+[First Semester Requirements Link](https://github.com/Tebbee/In-Class-Behavior-Analyzer/blob/master/Requirements.md)
+
 Project Requirements (First Semester) | Requirements Available 
 ------------ | -------------
 Mobile app | The mobile application is available
