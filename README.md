@@ -13,7 +13,7 @@ Email: gpavlech@bsu.edu
   Cody Tebbe,
   Vanessa Covarrubias
   
-### Requirements & Group Meetings
+### Project Documents
 
 [Requirements Document](https://github.com/Tebbee/In-Class-Behavior-Analyzer/blob/master/Requirements.md)  
 
