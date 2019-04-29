@@ -21,11 +21,9 @@ Email: gpavlech@bsu.edu
 
 [Group Meetings](https://github.com/Tebbee/In-Class-Behavior-Analyzer/tree/master/Group%20Meetings)
 
-### Client Meeting Minutes
+### Client Meeting Minutes and Presentations
 
 [Client Meeting #1 minutes](https://docs.google.com/document/d/19V_oVq57zbx2RUjroK89Ok1RTQhPDSYNuMSrUVdH1W0/edit#heading=h.6wnytnlzzfoq)
-
-### Client Meeting Presentations
 
 [Client Meeting #1 Presentation](https://docs.google.com/presentation/d/1B2FqyzIYeqdcNNwkaQkZFT_6lknN2ua5CaFp0wX5N0A/edit#slide=id.p)
 
@@ -41,20 +39,17 @@ Email: gpavlech@bsu.edu
 
 [Front-End](https://github.com/Tebbee/In-Class-Behavior-Analyzer-FrontEnd)
 
-### Planning Next Semester Presentation
+### Planning Ahead
 
 [Next Semester Presentation](https://docs.google.com/presentation/d/1MXF9iinWuRLQGhOiD3WNVIuwvzepxcHod7gq49SM5xc/edit?usp=sharing)
 
-### First Iteration
+### Iterations
 
-[Client Presentation - January](https://docs.google.com/presentation/d/1UKQNd43psxDmdAuzqE5WOSjcbQvt2jY238m-0k36XcU/edit?ts=5c472ca8#slide=id.p)
+[First Iteration - January](https://docs.google.com/presentation/d/1UKQNd43psxDmdAuzqE5WOSjcbQvt2jY238m-0k36XcU/edit?ts=5c472ca8#slide=id.p)
 
-### Second Iteration
+[Second Iteration - February](https://docs.google.com/presentation/d/1HsVIKrBMmOTV1xVMt9znGjy2JsDZo25-gR43ie4SRyg/edit#slide=id.p)
 
-[Client Presentation - February](https://docs.google.com/presentation/d/1HsVIKrBMmOTV1xVMt9znGjy2JsDZo25-gR43ie4SRyg/edit#slide=id.p)
-
-### Third Iteration
-[Client Presentation - March](https://docs.google.com/presentation/d/16lnKzHn0RWR1Vjcc_cqbjpVW3d41rfSRfxORurNbI9M/edit?ts=5c9a3a24#slide=id.g54a13989f4_0_42)
+[Third Iteration - March](https://docs.google.com/presentation/d/16lnKzHn0RWR1Vjcc_cqbjpVW3d41rfSRfxORurNbI9M/edit?ts=5c9a3a24#slide=id.g54a13989f4_0_42)
 
 ### Requirements Clarification 
 [Requirement Match Document](https://github.com/Tebbee/In-Class-Behavior-Analyzer/blob/master/Requirement_match_document.md)
