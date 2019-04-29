@@ -1,5 +1,5 @@
 # Group Meeting 5
-Date: 10/27/2018
+Date: 10/20/2018
 
 *Where: Library
 *Who: Ben, Cody, and Vanessa
