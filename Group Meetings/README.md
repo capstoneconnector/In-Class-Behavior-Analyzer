@@ -9,6 +9,10 @@ Within each section is an overview over all of our team meetings for the In-Clas
 ## Important Documents  
 [Symposium](https://github.com/Tebbee/In-Class-Behavior-Analyzer/blob/master/Group%20Meetings/Symposium.md)
 
+[Weekly Team Meeting #2-Client Present](https://github.com/Tebbee/In-Class-Behavior-Analyzer/blob/master/Group%20Meetings/September%20Meetings/September%2017-23%20Meeting%20%232%20(With%20Client).md)
+
+[Weekly Team Meeting #7-Client Present](https://github.com/Tebbee/In-Class-Behavior-Analyzer/blob/master/Group%20Meetings/October%20Meetings/October%2022-28%20Meeting%20%237%20(With%20Client).md)
+
 ## Meetings
 [September Meetings](https://github.com/Tebbee/In-Class-Behavior-Analyzer/tree/master/Group%20Meetings/September%20Meetings)
 
