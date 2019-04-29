@@ -4,7 +4,7 @@ RB450
 ##### Who was present?
 Ben and Cody
 ##### When?
-February 5th, 2019 @ 10:30 AM
+February 22th, 2019 @ 10:30 AM
 During class time
 ##### Why?
 Weekly team meeting and client preparation
