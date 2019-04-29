@@ -5,7 +5,3 @@ Within each section is an overview over all of our team meetings for the In-Clas
 * Where the meeting took place
 * How long the meeting was
 * What took place
-
-
-
-  
