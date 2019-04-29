@@ -13,7 +13,7 @@ Within each section is an overview over all of our team meetings for the In-Clas
 
 [Weekly Team Meeting #7-Client Present](https://github.com/Tebbee/In-Class-Behavior-Analyzer/blob/master/Group%20Meetings/October%20Meetings/October%2022-28%20Meeting%20%237%20(With%20Client).md)
 
-## Meetings
+## First Semester Meetings
 [September Meetings](https://github.com/Tebbee/In-Class-Behavior-Analyzer/tree/master/Group%20Meetings/September%20Meetings)
 
 [October Meetings](https://github.com/Tebbee/In-Class-Behavior-Analyzer/tree/master/Group%20Meetings/October%20Meetings)
@@ -21,6 +21,8 @@ Within each section is an overview over all of our team meetings for the In-Clas
 [November Meetings](https://github.com/Tebbee/In-Class-Behavior-Analyzer/tree/master/Group%20Meetings/November%20Meetings)
 
 [December Meetings](https://github.com/Tebbee/In-Class-Behavior-Analyzer/tree/master/Group%20Meetings/December%20Meetings)
+
+## Second Semester Meetings
 
 [January Meetings](https://github.com/Tebbee/In-Class-Behavior-Analyzer/tree/master/Group%20Meetings/January%20Meetings)
 
