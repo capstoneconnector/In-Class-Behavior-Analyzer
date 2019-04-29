@@ -4,7 +4,7 @@
 ##### Who was present?
 * Ben, Vanessa, and Cody
 ##### When?
-* Nov 8th, 2018 @ 1:15PM (15 min)
+* Nov 1st, 2018 (15 min)
 ##### Why?
 * Weekly team meeting and future planning
 
