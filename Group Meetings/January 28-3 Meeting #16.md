@@ -4,7 +4,7 @@ RB450
 ##### Who was present?
 Vanessa and Cody
 ##### When?
-February 12th, 2019 @ 10:30 AM
+February 29th, 2019 @ 10:30 AM
 During class time
 ##### Why?
 Weekly team meeting and client preparation
