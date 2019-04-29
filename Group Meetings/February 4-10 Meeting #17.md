@@ -7,16 +7,16 @@ Through Discord
 Ben, Vanessa, and Cody
 
 ##### When?
-February 24th, 2019 @ 9:00 AM
+February 10th, 2019 @ 9:00 AM
 
 ##### Why?
-Weekly team meeting and presentation preparation
+Weekly team meeting 
 
 ## What was discussed
-Presentation material 
+What needs to be done by the end of the week 
 
 ## What was accomplished?
-Fixing some loose ends
+Fixed some loose ends
 
 ## What needs accomplished?
-Making sure presentation is ready before Tuesday
+Making sure we are prepared for the future presentation 
