@@ -1,5 +1,5 @@
 Group Meeting 7
-* Date: 10/30/2018
+* Date: 10/28/2018
 * Where: TC
 * Who: Ben, Cody, Vanessa, and client
 * Duration: 1 hour
