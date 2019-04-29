@@ -52,9 +52,9 @@
    - No
 
 ## Side notes
- -Will students act differently if they are a minority/stereotype?
- -How does this affect social networking?
- -Get swipe card access to the room.
- -Might have access to a budget. Work with Wayne.
+ - Will students act differently if they are a minority/stereotype?
+ - How does this affect social networking?
+ - Get swipe card access to the room.
+ - Might have access to a budget. Work with Wayne.
 
 
