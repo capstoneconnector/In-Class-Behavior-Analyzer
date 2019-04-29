@@ -1,4 +1,4 @@
-# Weekly Team meeting #2 (With Client)
+# Weekly Team Meeting #2 (With Client)
 ## What we know we need:
  - Preconfigured room (so one map).
  - There needs to be a signup with demographic information for each student.
