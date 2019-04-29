@@ -15,13 +15,13 @@ Email: gpavlech@bsu.edu
   
 ### Project Documents
 
-[Requirements Document](https://github.com/Tebbee/In-Class-Behavior-Analyzer/blob/master/Requirements.md)  
+[Requirements Document](https://github.com/Tebbee/In-Class-Behavior-Analyzer/blob/master/Project_Documents/Requirements.md)  
 
 [Group Meetings](https://github.com/Tebbee/In-Class-Behavior-Analyzer/tree/master/Group%20Meetings)
 
 [Domain Model](https://github.com/Tebbee/In-Class-Behavior-Analyzer/blob/master/Domain_Model.vpp)  
 
-[Prototype](https://github.com/Tebbee/In-Class-Behavior-Analyzer/blob/master/Prototypes.md)
+[Prototypes](https://github.com/Tebbee/In-Class-Behavior-Analyzer/blob/master/Project_Documents/Prototypes.md)
 
 ### Client Meeting Minutes & Presentations
 
@@ -54,4 +54,4 @@ Email: gpavlech@bsu.edu
 [Third Iteration - March](https://docs.google.com/presentation/d/16lnKzHn0RWR1Vjcc_cqbjpVW3d41rfSRfxORurNbI9M/edit?ts=5c9a3a24#slide=id.g54a13989f4_0_42)
 
 ### Requirements Clarification 
-[Requirement Match Document](https://github.com/Tebbee/In-Class-Behavior-Analyzer/blob/master/Requirement_match_document.md)
+[Requirement Match Document](https://github.com/Tebbee/In-Class-Behavior-Analyzer/blob/master/Project_Documents/Requirement_match_document.md)
