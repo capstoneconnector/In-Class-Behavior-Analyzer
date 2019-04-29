@@ -1,4 +1,4 @@
-## Group Meeting Description
+## Meeting Description
 Within each section is an overview over all of our team meetings for the In-Class-Behavior_Analyzer. Each section composes of:
 * When the meeting was
 * Who was present
@@ -9,7 +9,7 @@ Within each section is an overview over all of our team meetings for the In-Clas
 ## Important Documents  
 [Symposium](https://github.com/Tebbee/In-Class-Behavior-Analyzer/blob/master/Group%20Meetings/Symposium.md)
 
-## Group Meetings
+## Meetings
 [September Meetings](https://github.com/Tebbee/In-Class-Behavior-Analyzer/tree/master/Group%20Meetings/September%20Meetings)
 
 [October Meetings](https://github.com/Tebbee/In-Class-Behavior-Analyzer/tree/master/Group%20Meetings/October%20Meetings)
