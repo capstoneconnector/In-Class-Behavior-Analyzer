@@ -19,6 +19,10 @@ Email: gpavlech@bsu.edu
 
 [Group Meetings](https://github.com/Tebbee/In-Class-Behavior-Analyzer/tree/master/Group%20Meetings)
 
+[Domain Model](https://github.com/Tebbee/In-Class-Behavior-Analyzer/blob/master/Domain_Model.vpp)  
+
+[Prototype](https://github.com/Tebbee/In-Class-Behavior-Analyzer/blob/master/Prototypes.md)
+
 ### Client Meeting Minutes & Presentations
 
 [Client Meeting #1 minutes](https://docs.google.com/document/d/19V_oVq57zbx2RUjroK89Ok1RTQhPDSYNuMSrUVdH1W0/edit#heading=h.6wnytnlzzfoq)
