@@ -9,19 +9,17 @@ Title: Director of Interactive Learning Spaces and Faculty Learning Communities 
 Email: gpavlech@bsu.edu
 
 **Team members:**
-  Vanessa Covarrubias, 
   Ben Lawson, 
-  Cody Tebbe
+  Cody Tebbe,
+  Vanessa Covarrubias
   
-### Requirements 
+### Requirements & Group Meetings
 
 [Requirements Document](https://github.com/Tebbee/In-Class-Behavior-Analyzer/blob/master/Requirements.md)  
 
-### Group Meetings 
-
 [Group Meetings](https://github.com/Tebbee/In-Class-Behavior-Analyzer/tree/master/Group%20Meetings)
 
-### Client Meeting Minutes and Presentations
+### Client Meeting Minutes & Presentations
 
 [Client Meeting #1 minutes](https://docs.google.com/document/d/19V_oVq57zbx2RUjroK89Ok1RTQhPDSYNuMSrUVdH1W0/edit#heading=h.6wnytnlzzfoq)
 
