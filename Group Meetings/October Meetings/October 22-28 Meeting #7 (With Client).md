@@ -1,4 +1,4 @@
-# Group Meeting 7
+# Group Meeting 7 (With Client)
 * Date: 10/28/2018
 * Where: TC
 * Who: Ben, Cody, Vanessa, and client
