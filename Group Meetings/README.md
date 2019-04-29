@@ -11,10 +11,17 @@ Within each section is an overview over all of our team meetings for the In-Clas
 
 ## Group Meetings
 [September Meetings](https://github.com/Tebbee/In-Class-Behavior-Analyzer/tree/master/Group%20Meetings/September%20Meetings)
+
 [October Meetings](https://github.com/Tebbee/In-Class-Behavior-Analyzer/tree/master/Group%20Meetings/October%20Meetings)
+
 [November Meetings](https://github.com/Tebbee/In-Class-Behavior-Analyzer/tree/master/Group%20Meetings/November%20Meetings)
+
 [December Meetings](https://github.com/Tebbee/In-Class-Behavior-Analyzer/tree/master/Group%20Meetings/December%20Meetings)
+
 [January Meetings](https://github.com/Tebbee/In-Class-Behavior-Analyzer/tree/master/Group%20Meetings/January%20Meetings)
+
 [February Meetings](https://github.com/Tebbee/In-Class-Behavior-Analyzer/tree/master/Group%20Meetings/February%20Meetings)
+
 [March Meetings](https://github.com/Tebbee/In-Class-Behavior-Analyzer/tree/master/Group%20Meetings/March%20Meetings)
+
 [April Meetings](https://github.com/Tebbee/In-Class-Behavior-Analyzer/tree/master/Group%20Meetings/April%20Meetings)
